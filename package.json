@@ -16,5 +16,13 @@
   "devDependencies": {
     "nodemon": "^1.18.7"
   },
-  "description": ""
+  "description": "This is a simple chat app with rooms, created with Socket.io, a Nodejs library for realtime web applications, best for chatting app. It enables realtime, bi-directional communication between web clients and servers. It has two parts: a client-side library that runs in the browser, and a server-side library for Node.js. Both components have a nearly identical API.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-akshii/Chat-App-With-Rooms.git"
+  },
+  "bugs": {
+    "url": "https://github.com/S-akshii/Chat-App-With-Rooms/issues"
+  },
+  "homepage": "https://github.com/S-akshii/Chat-App-With-Rooms#readme"
 }
